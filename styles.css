@@ -1,0 +1,10 @@
+.buttons{
+    height: 50px;
+    width: 400px;
+    margin: 5px;
+    padding: 20px;
+    background-color: gray;
+}
+#buttonsWrapper{
+    display: flex;
+}
